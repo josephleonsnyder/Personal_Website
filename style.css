@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     font-weight: lighter;
-    display: flex;
+    display: block;
     place-items: center;
 }
 
