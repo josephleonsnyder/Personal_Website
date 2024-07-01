@@ -191,13 +191,15 @@ img {
 }
 
 .text1 {
-    font-size: 40pt;
+    align-items: center;
+    font-size: 24pt;
     margin: 20px;
     cursor: pointer;
 }
 
 .text1:hover {
-    font-size: 45pt;
+    align-items: center;
+    font-size: 30pt;
     margin: 20px;
     transform: translateX(5%);
     background-color: #1bffff;
@@ -296,6 +298,8 @@ section {
 .grid1 {
     justify-content: space-evenly;
     align-items: center;
+    margin: 10px;
+    padding: 3px;
 }
 
 .portfolio {
